@@ -9,7 +9,7 @@ export default function Home() {
             <Image width={60} height={60} className="rounded-2xl object-cover" src='/logo.png' alt="" />
           </div>
           <div>
-            <p className="text-lg font-semibold">Zoom Metting Lists</p>
+            <p className="text-lg font-semibold">Zoom Meeting Lists</p>
           </div>
           <div></div>
         </header>
